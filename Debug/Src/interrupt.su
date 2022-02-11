@@ -1,0 +1,5 @@
+interrupt.c:26:6:HAL_UART_TxCpltCallback	16	static
+interrupt.c:50:6:HAL_UART_RxCpltCallback	16	static
+interrupt.c:73:6:HAL_TIM_PeriodElapsedCallback	16	static
+interrupt.c:82:6:kirimDataPolling	8	static
+interrupt.c:89:6:terimaDataPolling	8	static
